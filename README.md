@@ -3,11 +3,11 @@ GUI Scientific Calculator using Python. As you can see, calculating large number
 
 # OUTPUT
 
-# Image1
+IMAGE-1
 <img width="628" alt="image" src="https://github.com/UTKARSH0018/Scientific-Calci/assets/104591207/e6e192da-a93c-4ddd-9de8-e0115330fb24">
 
-# Image2
+IMAGE-2
 ![image](https://github.com/UTKARSH0018/Scientific-Calci/assets/104591207/6934387b-158b-4e7a-9f96-28bde50bffcb)
 
-# Image3
+IMAGE-3
 ![image](https://github.com/UTKARSH0018/Scientific-Calci/assets/104591207/e11a91f4-a304-433f-b00d-67497f56a936)
